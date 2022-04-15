@@ -1,9 +1,9 @@
 {
   "private": true,
-  "name": "cara",
+  "name": "lucas",
   "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
-  "version": "0.2.11",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "version": "1.0.0",
+  "author": "Lucas Sevelin <lucas.sevelin@gmail.com>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-cara",
   "scripts": {
